@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My Godot Addons
+[Full list](https://github.com/stars/the-aspecty/lists/godot-addon)
+> Godot addons I created (C#)
