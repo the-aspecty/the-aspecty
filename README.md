@@ -25,6 +25,13 @@ Here are some ideas to get you started:
 - [godot-auto-signals](https://github.com/the-aspecty/godot-auto-signals)
 - [godot-diagrams](https://github.com/the-aspecty/godot-diagrams)
 
+>wip:
+>- shaders: free shader library
+>- effects: effects system (create common effectts with builder pattern)
+>- notifications: on screen notification pop ups
+>- godot-jsx: experimental UI builder library using jsx like syntax (+ tailwind for styles)
+>- ...
+
 ### Games
 ...
 > Games published or under development
