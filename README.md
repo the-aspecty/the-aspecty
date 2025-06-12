@@ -28,3 +28,7 @@ Here are some ideas to get you started:
 ### Games
 ...
 > Games published or under development
+
+---
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N216DNEL)
