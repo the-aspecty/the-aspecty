@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Indie Game Dev
+
 <!--
 **the-aspecty/the-aspecty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,9 +21,9 @@ Here are some ideas to get you started:
 [Full list](https://github.com/stars/the-aspecty/lists/godot-addon)
 > Godot addons I created (C#)
 
-#### Godot Systems 
-...
-> Godot Systems I created (C#)
+- [godot-modular](https://github.com/the-aspecty/godot-modular)
+- [godot-auto-signals](https://github.com/the-aspecty/godot-auto-signals)
+- [godot-diagrams](https://github.com/the-aspecty/godot-diagrams)
 
 ### Games
 ...
