@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 - [godot-modular](https://github.com/the-aspecty/godot-modular)
 - [godot-auto-signals](https://github.com/the-aspecty/godot-auto-signals)
 - [godot-diagrams](https://github.com/the-aspecty/godot-diagrams)
+- [godot-effects](https://github.com/the-aspecty/godot-effect-sytem)  (create common effects with builder pattern)
 
 >wip:
 >- shaders: free shader library
->- effects: effects system (create common effectts with builder pattern)
 >- notifications: on screen notification pop ups
 >- godot-jsx: experimental UI builder library using jsx like syntax (+ tailwind for styles)
 >- ...
